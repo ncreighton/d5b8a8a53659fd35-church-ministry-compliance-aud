@@ -1,2 +1,25 @@
-# d5b8a8a53659fd35-church-ministry-compliance-aud
-Professional compliance audit trail plugin built for church ministry operations and growth.
+# Church Ministry Compliance Audit Trail Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x2cN55iTe2Mg88eM4cZe1W)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x2cN55iTe2Mg88eM4cZe1W)
+
